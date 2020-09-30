@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "52c6c779_525e2945",
+        "filename": "base/03_services/kustomization.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 169
+      },
+      "writtenOn": "2020-09-30T15:12:09Z",
+      "side": 1,
+      "message": "This is okay without a [] or {} value?",
+      "revId": "6dc276186fe3e166ddff3a9b5ab570992d95e82d",
+      "serverId": "4cada01b-0314-4fe0-84a1-f9ddc89863f9",
+      "unresolved": true
+    }
+  ]
+}
