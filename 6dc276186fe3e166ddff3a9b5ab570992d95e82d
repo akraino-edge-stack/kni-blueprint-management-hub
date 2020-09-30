@@ -16,6 +16,24 @@
       "revId": "6dc276186fe3e166ddff3a9b5ab570992d95e82d",
       "serverId": "4cada01b-0314-4fe0-84a1-f9ddc89863f9",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "01e797ce_cc351290",
+        "filename": "base/03_services/kustomization.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 154
+      },
+      "writtenOn": "2020-09-30T15:23:24Z",
+      "side": 1,
+      "message": "We have the same for our PAE blueprint:\n\nhttps://github.com/akraino-edge-stack/kni-blueprint-pae/blob/master/base/03_services/kustomization.yaml\n\nSo I assumed this was fine.",
+      "parentUuid": "52c6c779_525e2945",
+      "revId": "6dc276186fe3e166ddff3a9b5ab570992d95e82d",
+      "serverId": "4cada01b-0314-4fe0-84a1-f9ddc89863f9",
+      "unresolved": true
     }
   ]
 }
