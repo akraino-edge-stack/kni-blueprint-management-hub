@@ -6,6 +6,7 @@ resources:
   - manuela-central/argocd-hub-centraldatacenter.yaml
 
 bases:
+  - tekton/
   - odh-resources/
 
 transformers:
